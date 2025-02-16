@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Currently a Software Engineering student at <a href="https://www.unmsm.edu.pe/">UNMSM</a>.<br><br> 💻 Passionate about web development, especially React<br><br>📨 Contact me: favio.rouillon@gmail.com</p>
+<p align="left">🎓 Currently a Software Engineering student at <a href="https://www.unmsm.edu.pe/">UNMSM</a>.<br><br> 💻 Passionate about web development, especially React<br><br>📨 Contact me: <a href="favio.rouillon@gmail.com">favio.rouillon@gmail.com</a></p>
 
 ###
 
